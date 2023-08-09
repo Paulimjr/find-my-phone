@@ -1,0 +1,9 @@
+<resources>
+    <string name="hello_world">From the Round world,\nHello, %1$s!</string>
+    <string name="app_name">Find My Phone</string>
+    <string name="vibrate_text">Vibrate on phone</string>
+    <string name="title_vibrate">Set vibrate on phone</string>
+    <string name="stop">STOP!</string>
+    <string name="tap_to_find">Tap to find device!</string>
+    <string name="error_connect_device">Please, check the connection with your phone.</string>
+</resources>
